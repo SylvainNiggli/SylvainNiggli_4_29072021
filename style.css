@@ -302,6 +302,7 @@ a:hover {
 }
 
 .navbar-brand img {
+
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
@@ -651,7 +652,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #373737!important;
+}
+
+#bloc-8{
+    color: #373737;
 }
 
 .container {
@@ -677,7 +682,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -701,7 +706,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 50px auto;
 }
 
 h2 {
